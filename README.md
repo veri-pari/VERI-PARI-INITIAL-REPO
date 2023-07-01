@@ -1,2 +1,2 @@
 # VERI-PARI
- Verification by Pallavi Rao
+Gitbub Repository of Veri Pari
